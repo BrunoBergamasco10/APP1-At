@@ -29,20 +29,29 @@ O processo contempla:
    - Corte de tecido.
    - Costura da peça.
    - Personalização por bordadeira eletrônica.
-   - Controle de qualidade.
 
-4. **Finalização**
+4. **Qualidade**
+   - Inspeção de design, tamanho, estética, acabamento e conformidade.
+   - Validação do produto antes da expedição.
+   - Tratamento de não conformidades.
+
+5. **Estoque**
+   - Armazenamento de peças pré-prontas.
+   - Separação de itens disponíveis.
+   - Controle de disponibilidade de matéria-prima.
+
+6. **Finalização**
    - Passadoria.
    - Embalagem.
    - Formação do pacote para expedição.
 
-5. **Logística**
+7. **Logística**
    - Geração da etiqueta.
    - Entrega no ponto de coleta.
    - Envio pela transportadora.
    - Recebimento pelo cliente.
 
-6. **Pós-venda**
+8. **Pós-venda**
    - Tratamento de contestações.
    - Gestão de devoluções.
    - Processamento de reembolsos.
@@ -54,7 +63,9 @@ O processo contempla:
 |--------------|------------------|
 | Cliente | Realização do pedido, recebimento do produto e abertura de solicitações pós-venda |
 | Shopee | Recebimento do pedido, integração, expedição e gestão de contestações |
-| Ateliê | Produção, personalização, controle de qualidade e preparação para envio |
+| Ateliê | Produção e personalização das peças |
+| Qualidade | Inspeção, validação e tratamento de não conformidades |
+| Estoque | Gestão de materiais, peças pré-prontas e disponibilidade |
 | Fornecedor | Suprimento de materiais e peças pré-fabricadas para estoque |
 
 ## Fluxos Alternativos
@@ -86,6 +97,6 @@ O diagrama BPMN disponível neste repositório representa visualmente todas as e
 
 ---
 
-**Versão:** 1.0  
+**Versão:** 1.1  
 **Modelagem:** BPMN  
 **Objetivo:** Documentação e padronização do processo operacional de vendas, produção, expedição e pós-venda.
